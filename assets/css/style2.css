@@ -28,6 +28,7 @@
     width: 80px;
     background: #fff;
   }
+  
   /* header subtitle */
   .main_header .header_subtitle {
     font-size: 16px;
@@ -92,9 +93,83 @@
   background:rgb(36, 34, 34);
 }
 
-/* IE 6 */
+
 
 .main-footer .copyr p{
     color:#08e43bd0;
     font-size: 20px;
+}
+
+
+
+/* important-links */
+
+.imp-links{
+  margin-top: 120px;
+}
+.imp-links .heading h1{
+  color: #fff;
+  font-size: 50px;
+  font-weight: 900;
+  font-family: 'Montserrat', sans-serif;
+}
+.imp-links .head {
+  margin-left: 10px;
+  margin-bottom: 40px;
+  margin-top: 60px;
+  color: rgb(240, 240, 240);
+  font-size: 40px;
+  font-weight: 900;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+}
+
+/* card */
+.imp-links .card{
+  position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: rgb(190, 190, 190);
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 20px;
+      margin-bottom: 40px;
+      height: 130px;
+      margin-left: 20px;
+  -webkit-box-shadow:0px 0px 1px 5px rgba(214, 203, 41, 0.993);
+	-ms-box-shadow:0px 22px 10px 5px rgb(220, 223, 41);
+	box-shadow:6px 8px 0px 0px rgba(4, 255, 100, 0.877);
+}
+.card .card-body{
+  
+  border-radius: 20px;
+  background-color: rgba(11, 12, 11, 0.918);
+  
+}
+.card .card-body .card-title{
+  color: #fff;
+  font-size: 20px;
+  height: 40px;
+}
+.card .card-body .btn{
+  color: rgb(0, 0, 0);
+  background-color: rgb(90, 211, 60);
+  border: 1px solid rgba(208, 214, 180, 0.125);
+  font-weight: 600;
+}
+.card .card-body .btn:hover{
+  background-color:rgba(16, 243, 35, 0.384);
+  color: black;
+}
+.card .card-body .card-text{
+  color: #ccc;
+  overflow: hidden;
+  height: 60px;
+  display: flex;
+  overflow-y: auto;
+  
 }
