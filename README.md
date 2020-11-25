@@ -3,7 +3,7 @@
 ## Website to learn
 ### Data Structure
 https://www.geeksforgeeks.org/data-structures/ <br>
-### algorithm
+### Algorithm
 https://www.geeksforgeeks.org/fundamentals-of-algorithms/<br>
 https://cp-algorithms.com/ <br>
 
