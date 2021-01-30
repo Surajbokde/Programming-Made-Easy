@@ -1,4 +1,4 @@
-# Welcome to Competitive Programming Practice
+# Welcome to Competitive Programming 
 
 ## Website to learn
 ### Data Structure
