@@ -1,4 +1,4 @@
-# Welcome to Competitive Programming 
+# Welcome to Programming Made Easy
 
 ## Website to learn
 ### Data Structure
